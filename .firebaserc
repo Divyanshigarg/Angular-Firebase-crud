@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "student-management-syste-3228f": {
+      "hosting": {
+        "student-management-system": [
+          "student-management-syste-3228f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "student-management-syste-3228f"
+  }
+}
